@@ -1,0 +1,2 @@
+# scthink
+think
